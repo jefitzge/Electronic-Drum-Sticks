@@ -15,9 +15,11 @@ Joseph Fitzgerald Senior CE, Anthony Magari III Senior CE, Aidan Franits Senior 
 ## Hardware Diagram 
 <img src="https://github.com/jefitzge/Electronic-Drum-Sticks/blob/master/Hardware%20Block%20Diagram.PNG" alt="Hardware" width="450" height="450">
 
+*********DESCRIPTION NEEDED*********
 ## Software Diagram
 <img src="https://github.com/jefitzge/Electronic-Drum-Sticks/blob/master/Software%20Block%20Diagram.PNG" alt="Software" width="450" height="150">
 
+*********DESCRIPTION NEEDED*********
 ## Final Design with 3D Printed Shells
 <img src="https://github.com/jefitzge/Electronic-Drum-Sticks/blob/master/Final%20Design.PNG" alt="Final Design" width="350" height="350">
 
