@@ -43,5 +43,9 @@ This video was taken prior to our Open House demonstration so the Sticks are cur
 | Miscellaneous | N/A | N/A | $20 |
 |  |  |  | **Total Cost: $183.75** |
 
+## Known Issues
+- The TCP server needs to be changed to stop it from dropping connection with a stick when it tries to write to a socket in use by another stick.
+- The activation zone for the drums needs to be adjusted to more accurately represent a real drum set.
+
 # How to build it
 coming soon...
